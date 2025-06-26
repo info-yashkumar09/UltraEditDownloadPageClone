@@ -1,0 +1,1 @@
+🎯 A pixel-perfect static clone of the UltraEdit Download Page, built using HTML and CSS. This project focuses on mastering layout, styling, and replicating real-world UI designs. (Currently desktop-only, responsive version coming soon).
