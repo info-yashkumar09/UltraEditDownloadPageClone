@@ -1,1 +1,17 @@
-🎯 A pixel-perfect static clone of the UltraEdit Download Page, built using HTML and CSS. This project focuses on mastering layout, styling, and replicating real-world UI designs. (Currently desktop-only, responsive version coming soon).
+
+# UltraEdit Website - Desktop Clone
+
+✅ A 99% accurate static clone of the [UltraEdit download page](https://www.ultraedit.com/downloads/ultraedit-download/), built using HTML & CSS.
+
+## 🌟 Features
+- Pixel-perfect layout based on the real website
+- Clean, structured HTML
+- Responsive-ready CSS (currently desktop-only)
+- Fully asset-managed project structure
+
+## 📂 Tech Stack
+- HTML
+- CSS
+
+## 🔗 Live Preview
+[View Live on Netlify](ultraedit-clone-desktop.netlify.app)
