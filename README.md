@@ -14,4 +14,4 @@
 - CSS
 
 ## 🔗 Live Preview
-[View Live on Netlify](ultraedit-clone-desktop.netlify.app)
+[View Live on Vercel](https://ultra-edit-download-page-clone-5acqxrjs0.vercel.app/)
