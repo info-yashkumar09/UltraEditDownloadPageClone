@@ -390,6 +390,7 @@ main>.button>a{
     background-color: #00B6D1;
     color: white;
     width: 220px;
+    margin-top: 5px;
     padding: 10px 25px;
     border-radius: 7px;
     font-weight: bold;
