@@ -1,7 +1,7 @@
 
 # UltraEdit Website - Desktop Clone
 
-✅ A 99% accurate static clone of the [UltraEdit download page](https://www.ultraedit.com/downloads/ultraedit-download/), built using HTML & CSS.
+✅ A 99% accurate static clone of the [UltraEdit download page](https://www.ultraedit.com/downloads/ultraedit-download-thank-you/?src=homepage_banner), built using HTML & CSS.
 
 ## 🌟 Features
 - Pixel-perfect layout based on the real website
