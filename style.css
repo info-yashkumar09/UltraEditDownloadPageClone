@@ -131,7 +131,7 @@ main>h3{
 
 
 main>.button{
-    margin-top: 30px;
+    margin-top: 40px;
     margin-bottom: 70px;
 }
 main>.button>a{
@@ -139,7 +139,7 @@ main>.button>a{
     color: white;
     background-color: #09a6bd;
     border-radius: 3px;
-    padding: 12px 20px;
+    padding: 20px 20px;
     font-size: 14px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bolder;
