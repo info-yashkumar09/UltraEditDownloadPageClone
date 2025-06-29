@@ -131,7 +131,7 @@ main>h3{
 
 
 main>.button{
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 70px;
 }
 main>.button>a{
@@ -293,12 +293,16 @@ main>.button>a{
 .subscribe-panel>.top-panel>.top-right-panel>div>label{
     font-size: 14px;
     font-weight: lighter;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
 }
 .subscribe-panel>.top-panel>.top-right-panel>div>input{
-    padding: 15px 60px;
+    padding: 10px 10px;
+    width: 300px;
+    height: 45px;
     margin-bottom: 10px;
-    font-size: 11px;
+    font-size: 17px;
+    border: 1px solid black;
+    border-radius: 5px;
 }
 .subscribe-panel>.top-panel>.top-right-panel>div>button{
     background: none;
