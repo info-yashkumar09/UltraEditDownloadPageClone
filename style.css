@@ -381,8 +381,11 @@ main>.button>a{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .main-footer>.info-card>.card5>input{
-    padding: 10px 16px;
+    padding: 3px 3px;
+    width: 220px;
+    height: 37px;
     margin: 10px 0px;
+    border: 1px solid black;
     border-radius: 7px;
     width: 220px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
